@@ -34220,6 +34220,15 @@
       "suggested_by": "@marcusraitner",
       "stars": 12,
       "updated": "2026-05-21 16:11"
-    }
+    },
+    title": "Shelv",
+"category-ids": ["audio"],
+"description": "A native, album and artist focused iOS and iPadOS client for Navidrome and Subsonic-compatible music servers, built with SwiftUI",
+"source": "https://github.com/gatzenga/Shelv",
+"itunes": "https://testflight.apple.com/join/5y4tN6NB",
+"screenshots": ["http://something.com/image.png"],
+"date_added": "May 25 2026",
+"suggested_by": "@joslajoko"
+}
   ]
 }
